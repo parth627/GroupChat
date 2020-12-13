@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatAndHow</string>
+    <string name="username">Username</string>
+    <string name="join_chat">Join Chat</string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter message…</string>
+    <string name="appID">27088ab6183a1ea</string>
+    <string name="apiKey">37b6061f828679c531dc0fa7dc8e229df657f0d2</string>
+    <string name="region">us</string>
+</resources>

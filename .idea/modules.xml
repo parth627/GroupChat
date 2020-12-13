@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-group-chat.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-group-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kotlin-group-chat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kotlin-group-chat.app.iml" />
+    </modules>
+  </component>
+</project>
